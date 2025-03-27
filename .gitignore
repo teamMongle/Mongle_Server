@@ -1,0 +1,14 @@
+# Python 관련
+*.pyc
+__pycache__/
+
+# 가상환경
+venv/
+.env
+
+# IDE 관련
+.vscode/
+.idea/
+
+# 기타
+.DS_Store
